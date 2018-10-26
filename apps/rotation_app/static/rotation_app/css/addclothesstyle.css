@@ -1,6 +1,9 @@
 body {
     background-color: antiquewhite;
 }
+.container-fluid{
+    width:95%;
+}
 
 .blackborder{
     border: 1px solid black;
